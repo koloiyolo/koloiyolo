@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [cnct](https://github.com/koloiyolo/cnct)
 
-- 🌱 I’m currently learning **Rust, RADs, Mobile Dev**
+- 🌱 I’m currently learning **Rust, RADs, Flutter**
 
 - 👨‍💻 All of my projects are available at [https://github.com/koloiyolo/](https://github.com/koloiyolo/)
 
