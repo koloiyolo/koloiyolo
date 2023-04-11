@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jakub Kołodziej</h1>
 <h3 align="center">A passionate CS student from Poland.</h3>
 
-- 🔭 I’m currently working on [cnct](https://github.com/koloiyolo/cnct)
+- 🔭 I’m currently working on [cnct](https://github.com/koloiyolo/warframe_tracker)
 
 - 🌱 I’m currently learning **Rust, RADs, Flutter**
 
