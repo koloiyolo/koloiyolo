@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jakub Kołodziej</h1>
-<h3 align="center">A passionate CS student from Poland.</h3>
+<h3 align="center">A CS student from Poland.</h3>
 
 - 🔭 I’m currently working on [warframe_tracker](https://github.com/koloiyolo/warframe_tracker)
 
