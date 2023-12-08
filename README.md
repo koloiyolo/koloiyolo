@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Jakub Kołodziej</h1>
 <h3 align="center">A CS student from Poland.</h3>
 
+**<a href="https://koloiyolo.github.io/portfolio/"> My Portfolio</a>**
+
 - 🔭 I’m currently working on [warframe_tracker](https://github.com/koloiyolo/warframe_tracker)
 
 - 🌱 I’m currently learning **Rust, RADs, Flutter**
