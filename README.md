@@ -3,7 +3,7 @@
 
 **<a href="https://koloiyolo.github.io/portfolio/"> My Portfolio</a>**
 
-- 🔭 I’m currently working on [My Engineering Thesis]([https://github.com/koloiyolo/warframe_tracker](https://github.com/koloiyolo/engineering_thesis_django))
+- 🔭 I’m currently working on [My Engineering Thesis](https://github.com/koloiyolo/engineering_thesis_django)
 
 - 🌱 I’m currently learning **Python, Django, ML**
 
