@@ -22,12 +22,12 @@
 
 What I am familiar with **B-)** :
 
-[![My Skills](https://skillicons.dev/icons?i=python,django,php,java,tab,tab&perline=9)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=mysql,postgres,mongodb&perline=9)](https://skillicons.dev)
+[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,django,scikitlearn,php,java,tab&perline=9)](go-skill-icons.vercel.app/) [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=mysql,sqlserver,plsql,mongodb&perline=9)](go-skill-icons.vercel.app/)
 
-[![My Skills](https://skillicons.dev/icons?i=ubuntu,debian,redhat,arch,windows,tab&perline=9)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=docker,git,github&perline=9)](https://skillicons.dev)
+[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=ubuntu,debian,redhat,arch,windows,tab&perline=9)](go-skill-icons.vercel.app/) [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=docker,git,github&perline=9)](go-skill-icons.vercel.app/)
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js&perline=9)](https://skillicons.dev)
+[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,bootstrap,js,flutter&perline=9)](go-skill-icons.vercel.app/)
 
 What I want to learn:
 
-[![My Skills](https://skillicons.dev/icons?i=htmx,tensorflow,ansible,terraform,nix&perline=9)](https://skillicons.dev)
+[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=htmx,tensorflow,ansible,terraform,nix&perline=9)](go-skill-icons.vercel.app/)
