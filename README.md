@@ -18,8 +18,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.leetcode.com/koloiyolo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="koloiyolo" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/jakub-ko%C5%82odziej/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in.svg" alt="me" height="30" width="40" /></a>
 </p>
+
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/jakub-ko%C5%82odziej/)
 
 What I am familiar with 😎 :
 
