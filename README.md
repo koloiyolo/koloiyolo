@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jakub Kołodziej</h1>
-<h3 align="center">A CS student from Poland.</h3>
+<h3 align="center">A CS graduate from Poland.</h3>
 
 **<a href="https://koloiyolo.github.io/portfolio/"> My Portfolio</a>**
 
-- 🔭 I’m currently working on [My Engineering Thesis](https://github.com/koloiyolo/engineering_thesis_django)
-
-- 🌱 I’m currently learning **Python, Django, ML**
+- 🌱 I’m currently learning **Python, Django, Qt**
 
 - 👨‍💻 All of my projects are available at [https://github.com/koloiyolo/](https://github.com/koloiyolo/)
 
