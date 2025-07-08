@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jakub Kołodziej</h1>
 <h3 align="center">A CS graduate from Poland.</h3>
 
-**<a href="https://koloiyolo.github.io/portfolio/"> My Portfolio</a>**
+**<a href="https://koloiyolo.github.io/portfolio/"> My Portfolio website </a>**
 
-- 🌱 I’m currently learning **Python, Django, Qt**
+- 🌱 I’m currently learning **Rust, Python, Django, Qt**
 
 - 👨‍💻 All of my projects are available at [https://github.com/koloiyolo/](https://github.com/koloiyolo/)
 
@@ -13,12 +13,7 @@
 
 - ⚡ Fun fact **I like watching stars 🔭**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.leetcode.com/koloiyolo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="koloiyolo" height="30" width="40" /></a>
-</p>
-
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/jakub-ko%C5%82odziej/)
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=koloiyolo&theme=dracula&show_icons=true&layout=compact&langs_count=8&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
 
 What I am familiar with 😎 :
 
