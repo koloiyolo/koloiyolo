@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jakub Kołodziej</h1>
 <h3 align="center">A CS graduate from Poland.</h3>
 
-**<a href="https://koloiyolo.github.io/portfolio/"> My Portfolio website </a>**
+My [**CV/Resume**](koloiyolo.github.io/koloiyolo/) and [**portfolio**](https://koloiyolo.github.io/portfolio/)
 
 - 🌱 I’m currently learning **Rust, Python, Django, Qt**
-
-- 👨‍💻 All of my projects are available at [https://github.com/koloiyolo/](https://github.com/koloiyolo/)
 
 - 💬 Ask me about **ML, backend, linux, scripting, space**
 
