@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jakub Kołodziej</h1>
 <h3 align="center">A CS graduate from Poland.</h3>
 
-My [**CV/Resume**](koloiyolo.github.io/koloiyolo/) and [**portfolio**](https://koloiyolo.github.io/portfolio/)
+My [**CV/Resume**](https://koloiyolo.github.io/koloiyolo/) and [**portfolio**](https://koloiyolo.github.io/portfolio/)
 
 - 🌱 I’m currently learning **Rust, Python, Django, Qt**
 
