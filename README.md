@@ -24,3 +24,5 @@ What I am familiar with 😎 :
 What I want to learn:
 
 [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=htmx,tensorflow,ansible,terraform,nix,blazor,net&perline=9)](go-skill-icons.vercel.app/)
+
+![](https://komarev.com/ghpvc/?username=koloiyolo)
