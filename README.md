@@ -3,13 +3,10 @@
 
 My [**CV/Resume**](https://koloiyolo.github.io/koloiyolo/) and [**portfolio**](https://koloiyolo.github.io/portfolio/)
 
-- 🌱 I’m currently learning **Rust, Python, Django, Qt**
-
-- 💬 Ask me about **ML, backend, linux, scripting, space**
-
-- 📫 How to reach me **jakvb.kolodziej@gmail.com**
-
-- ⚡ Fun fact **I like watching stars 🔭**
+* 👜 **Space Engineer** soon
+* 🌱 I’m currently learning **Rust, Poem, Python**
+* 💬 Ask me about **ML, backend, linux, scripting, space**
+* ⚡ Fun fact **I like watching stars 🔭**
 
 ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=koloiyolo&theme=dracula&show_icons=true&layout=compact&langs_count=8&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
 
