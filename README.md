@@ -4,7 +4,7 @@
 My [**CV/Resume**](https://koloiyolo.github.io/koloiyolo/) and [**portfolio**](https://koloiyolo.github.io/portfolio/)
 
 * 👜 **Space Engineer** at [**Creotech**](https://creotech.pl)
-* 🌱 I’m currently learning **Rust, Poem, Python**
+* 🌱 I’m currently learning **Rust, Axum, Python**
 * 💬 Ask me about **ML, backend, linux, scripting, space**
 * ⚡ Fun fact **I like watching stars 🔭**
 
