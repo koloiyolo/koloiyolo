@@ -1,5 +1,8 @@
 # [Jakub Kołodziej](https://www.linkedin.com/in/jakub-ko%C5%82odziej/)
 
+|Github: [koloiyolo](https://github.com/koloiyolo)|Linkedin: [Jakub Kołodziej](https://www.linkedin.com/in/jakub-ko%C5%82odziej/)|E-Mail: [jakvb.kolodziej@gmail.com](mailto:jakvb.kolodziej@gmail.com)|
+|-|-|-|
+
 * 2 years IT Administrator experience, currently Space Engineer
 * Hand-on experience in Proxmox, SQL Server, Ansible, Python, Linux, Rust
 * Rust, Space and new technology enthusiast
