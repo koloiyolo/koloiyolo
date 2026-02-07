@@ -3,7 +3,7 @@
 |Github: [koloiyolo](https://github.com/koloiyolo)|Linkedin: [Jakub Kołodziej](https://www.linkedin.com/in/jakub-ko%C5%82odziej/)|E-Mail: [jakvb.kolodziej@gmail.com](mailto:jakvb.kolodziej@gmail.com)|
 |-|-|-|
 
-* 2 years IT Administrator experience, currently Mission Control Operation Engineer
+* 2 years IT Administrator experience, currently Mission Control Operations Engineer
 * Hand-on experience in Proxmox, SQL Server, Ansible, Python, Linux, Rust
 * Rust, Space and new technology enthusiast
 
@@ -24,7 +24,7 @@
 * **Python**: `django`, `asyncio`, `uv/ruff`, `jupyter`
 * **Rust**: `tokio`, `axum`, `serde`
 * **Storage**: Nats, PostgreSQL (TimescaleDB), InfluxDB
-* **Technologies**: Docker, Linux (Nix, Fedora), Git, REST, WebSocket
+* **Technologies**: Docker, Linux (Nix, Fedora), Ansible, CI, OpenAPI, Git, REST, WebSocket
 * **Space**: Satellite Integration tests, Mission Control Operations, PUS, SpacePacket and CCSDS
 
 ### Projects
