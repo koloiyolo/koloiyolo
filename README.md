@@ -1,7 +1,7 @@
 # [Jakub Kołodziej](https://www.linkedin.com/in/jakub-ko%C5%82odziej/)
 
-|Github: [koloiyolo](https://github.com/koloiyolo)|Linkedin: [Jakub Kołodziej](https://www.linkedin.com/in/jakub-ko%C5%82odziej/)|E-Mail: [jakvb.kolodziej@gmail.com](mailto:jakvb.kolodziej@gmail.com)|
-|-|-|-|
+|Github: [koloiyolo](https://github.com/koloiyolo)|Linkedin: [Jakub Kołodziej](https://www.linkedin.com/in/jakub-ko%C5%82odziej/)|E-Mail: [jakvb.kolodziej@gmail.com](mailto:jakvb.kolodziej@gmail.com)|Printable CV: [Here](https://koloiyolo.github.io/koloiyolo/)|
+|-|-|-|-|
 
 * 2 years IT Administrator experience, currently Mission Control Operations Engineer
 * Hand-on experience in Proxmox, SQL Server, Ansible, Python, Linux, Rust
