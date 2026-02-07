@@ -1,22 +1,36 @@
-<h1 align="center">Hi 👋, I'm Jakub Kołodziej</h1>
-<h3 align="center">A CS graduate from Poland.</h3>
+# [Jakub Kołodziej](https://www.linkedin.com/in/jakub-ko%C5%82odziej/)
 
-My [**CV/Resume**](https://koloiyolo.github.io/koloiyolo/) and [**portfolio**](https://koloiyolo.github.io/portfolio/)
+|Github: [koloiyolo](https://github.com/koloiyolo)|Linkedin: [Jakub Kołodziej](https://www.linkedin.com/in/jakub-ko%C5%82odziej/)|E-Mail: [jakvb.kolodziej@gmail.com](mailto:jakvb.kolodziej@gmail.com)|
+|-|-|-|
 
-* 👜 **Space Engineer** at [**Creotech**](https://creotech.pl)
-* 🌱 I’m currently learning **Rust, Axum, Python**
-* 💬 Ask me about **ML, backend, linux, scripting, space**
-* ⚡ Fun fact **I like watching stars 🔭**
+* 2 years IT Administrator experience, currently Mission Control Operations Engineer
+* Hand-on experience in Proxmox, SQL Server, Ansible, Python, Linux, Rust
+* Rust, Space and new technology enthusiast
 
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=koloiyolo&theme=dracula&show_icons=true&layout=compact&langs_count=8&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR) ![koloiyolo's GitHub stats](https://github-readme-stats.vercel.app/api?username=koloiyolo&show_icons=true&title_color=ff5c92&text_color=faedf1&icon_color=cc4773&border_color=42212c&theme=jolly&bg_color=00000000)
+### Working Experience
 
-What I am familiar with 😎 :
+#### Creotech Instruments S.A. – Junior Mission Control Engineer (08/2025 – present)
+* Development and maintenance of internal tools and critical Mission Control software.
+* Integration of external software from third‑party suppliers.
+* Construction of the in‑house Mission Control system from scratch using modern, memory‑ and type‑safe technologies in the Rust ecosystem.
+* Execution of in‑orbit and Mission Control operations, as well as on‑ground satellite integration tests.
 
-[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,django,scikitlearn,rust,java,tab&perline=9)](go-skill-icons.vercel.app/) [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=mysql,sqlserver,plsql,mongodb&perline=9)](go-skill-icons.vercel.app/)
+#### Cema Mystal sp. z o.o.	 (IT Administrator, 11/2023 - 07/2025)
+* Modification and enhancement of the company ERP system and other IT platforms to improve functionality and efficiency.
+* Development of internal tools for data‑extraction and processing pipelines using Python, Qt, and SQL.
+* Deployment and administration of Proxmox virtual machines, Windows Server, and SQL Server instances.
 
-[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=ubuntu,debian,redhat,arch,windows,tab&perline=9)](go-skill-icons.vercel.app/) [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=docker,git,github&perline=9)](go-skill-icons.vercel.app/)
+### My stack
+* 🐍 **Python**: `django`, `asyncio`, `uv/ruff`, `jupyter`, `scikit-learn`
+* 🦀 **Rust**: `tokio`, `axum`, `serde`
+* 📊 **Storage**: Nats, PostgreSQL (TimescaleDB), InfluxDB, MySQL, Microsoft SQL Server
+* 💻 **Technologies**: Docker, Linux (Nix, Fedora), Proxmox, Ansible, CI, OpenAPI, Git, REST, WebSocket
+* 🛰️ **Space**: Satellite Integration tests, Mission Control Operations, PUS, ECSS, CCSDS
 
-[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,bootstrap,js,flutter&perline=9)](go-skill-icons.vercel.app/)
+### My OSS Contributions:
+* [RustScan](https://github.com/bee-san/RustScan) - The modern, Rust based port scanner.
+* [Cephalon Navis](https://github.com/WFCD/navis) - An app inspired by Warframe Hub. 
+* [Skyblocker](https://github.com/SkyblockerMod/Skyblocker) - Hypixel Skyblock fabric mod.
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
@@ -25,4 +39,3 @@ What I am familiar with 😎 :
 </picture>
 
 ![](https://komarev.com/ghpvc/?username=koloiyolo)
-
