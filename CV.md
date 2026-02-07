@@ -23,9 +23,9 @@
 ### My stack
 * 🐍 **Python**: `django`, `asyncio`, `uv/ruff`, `jupyter`, `scikit-learn`
 * 🦀 **Rust**: `tokio`, `axum`, `serde`
-* 📊 **Storage**: Nats, PostgreSQL (TimescaleDB), InfluxDB
-* 💻 **Technologies**: Docker, Linux (Nix, Fedora), Ansible, CI, OpenAPI, Git, REST, WebSocket
-* 🛰️ **Space**: Satellite Integration tests, Mission Control Operations, PUS, SpacePacket and CCSDS
+* 📊 **Storage**: Nats, PostgreSQL (TimescaleDB), InfluxDB, MySQL, Microsoft SQL Server
+* 💻 **Technologies**: Docker, Linux (Nix, Fedora), Proxmox, Ansible, CI, OpenAPI, Git, REST, WebSocket
+* 🛰️ **Space**: Satellite Integration tests, Mission Control Operations, PUS, ECSS, CCSDS
 
 ### Projects
 * 🐍 [**My engineering thesis project**](https://github.com/koloiyolo/engineering_thesis_django) - log clusterization and device monitoring system.
