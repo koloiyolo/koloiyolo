@@ -7,7 +7,7 @@
 * Hand-on experience in Proxmox, SQL Server, Ansible, Python, Linux, Rust
 * Rust, Space and new technology enthusiast
 
-## Working Experience
+### Working Experience
 
 #### Creotech Instruments S.A.	 (Junior Mission Control Engineer, 08/2025 - present)
 
@@ -22,25 +22,25 @@
 * Deployment and administration of Proxmox virtual machines, Windows Server, and SQL Server instances.
 * Migration and management of Microsoft 365 and Google Workspace environments.
 
-## My stack
+### My stack
 * Python: `django`, `asyncio`, `uv/ruff`, jupyter
 * Rust: `tokio`, `axum`, `serde`
 * Storage: Nats, PostgreSQL (TimescaleDB), InfluxDB
 * Technologies: Docker, Linux (Nix, Fedora), Git, REST, WebSocket, PUS, SpacePacket and CCSDS
 
-## Projects
+### Projects
 
 * [**My engineering thesis project**](https://github.com/koloiyolo/engineering_thesis_django) - log clusterization and device monitoring system. Python, Django, Docker
 * [**minihashcat**](https://github.com/koloiyolo/minihashcat) - multithreaded CLI tool that imitates hashcat. Rust, Multithreading
 * [**sklearn_minisom**](https://github.com/koloiyolo/minisom) - **minisom** library wrapper for Scikit-learn. Python, ML, Scikit-learn
 * [**algorithms**](https://github.com/koloiyolo/algorithms) - web server serving API endpoints for ML algorithms. Python, ML, Flask, Docker
 
-## Education & Qualifications
+### Education & Qualifications
 
 * Bachelor of Engineering in Information Technology, **University of Silesia**, 2025
 * [Repository containing certifications I obtained during my University and free time](https://github.com/koloiyolo/certificates)
 
-## Misc. Information
+### Misc. Information
 
 * Languages: English (B2), Polish (fluent/native)
 * Availability: none 😉
