@@ -2,6 +2,7 @@
 
 |Github: [koloiyolo](https://github.com/koloiyolo)|Linkedin: [Jakub Kołodziej](https://www.linkedin.com/in/jakub-ko%C5%82odziej/)|E-Mail: [jakvb.kolodziej@gmail.com](mailto:jakvb.kolodziej@gmail.com)|
 |-|-|-|
+|t|e|st|
 
 * 2 years IT Administrator experience, currently Space Engineer
 * Hand-on experience in Proxmox, SQL Server, Ansible, Python, Linux, Rust
@@ -10,38 +11,34 @@
 ### Working Experience
 
 #### Creotech Instruments S.A.	 (Junior Mission Control Engineer, 08/2025 - present)
-
 * Development and maintenance of internal tools and critical systems for Mission Control.
-* Backend development utilizing modern stack using Rust, Poem and Docker.
-* Support of the Mission Control team with daily operational tasks.
+* Integrations with external software suppliers.
+* Development of the In House Mission Control System from scratch, utilizing modern, memory and type safe technologies, Rust ecosystem.
+* In-orbit and Mission Control Operations and on ground 
 
 #### Cema Mystal sp. z o.o.	 (IT Administrator, 11/2023 - 07/2025)
-
 * Modification and enhancement of the company ERP system and other IT systems to improve functionality and efficiency.
 * Development of internal tools for data extraction and processing pipelines using Python, Qt, and SQL.
 * Deployment and administration of Proxmox virtual machines, Windows Server, and SQL Server instances.
-* Migration and management of Microsoft 365 and Google Workspace environments.
 
 ### My stack
-* Python: `django`, `asyncio`, `uv/ruff`, jupyter
+* Python: `django`, `asyncio`, `uv/ruff`, `jupyter`
 * Rust: `tokio`, `axum`, `serde`
 * Storage: Nats, PostgreSQL (TimescaleDB), InfluxDB
-* Technologies: Docker, Linux (Nix, Fedora), Git, REST, WebSocket, PUS, SpacePacket and CCSDS
+* Technologies: Docker, Linux (Nix, Fedora), Git, REST, WebSocket
+* Space: Mission Control Operations, PUS, SpacePacket and CCSDS
 
 ### Projects
-
 * [**My engineering thesis project**](https://github.com/koloiyolo/engineering_thesis_django) - log clusterization and device monitoring system. Python, Django, Docker
 * [**minihashcat**](https://github.com/koloiyolo/minihashcat) - multithreaded CLI tool that imitates hashcat. Rust, Multithreading
 * [**sklearn_minisom**](https://github.com/koloiyolo/minisom) - **minisom** library wrapper for Scikit-learn. Python, ML, Scikit-learn
 * [**algorithms**](https://github.com/koloiyolo/algorithms) - web server serving API endpoints for ML algorithms. Python, ML, Flask, Docker
 
 ### Education & Qualifications
-
 * Bachelor of Engineering in Information Technology, **University of Silesia**, 2025
 * [Repository containing certifications I obtained during my University and free time](https://github.com/koloiyolo/certificates)
 
 ### Misc. Information
-
 * Languages: English (B2), Polish (fluent/native)
 * Availability: none 😉
 
