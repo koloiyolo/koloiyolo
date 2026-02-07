@@ -2,7 +2,6 @@
 
 |Github: [koloiyolo](https://github.com/koloiyolo)|Linkedin: [Jakub Kołodziej](https://www.linkedin.com/in/jakub-ko%C5%82odziej/)|E-Mail: [jakvb.kolodziej@gmail.com](mailto:jakvb.kolodziej@gmail.com)|
 |-|-|-|
-|t|e|st|
 
 * 2 years IT Administrator experience, currently Space Engineer
 * Hand-on experience in Proxmox, SQL Server, Ansible, Python, Linux, Rust
@@ -26,7 +25,7 @@
 * Rust: `tokio`, `axum`, `serde`
 * Storage: Nats, PostgreSQL (TimescaleDB), InfluxDB
 * Technologies: Docker, Linux (Nix, Fedora), Git, REST, WebSocket
-* Space: Mission Control Operations, PUS, SpacePacket and CCSDS
+* Space: Satellite Integration tests, Mission Control Operations, PUS, SpacePacket and CCSDS
 
 ### Projects
 * [**My engineering thesis project**](https://github.com/koloiyolo/engineering_thesis_django) - log clusterization and device monitoring system. Python, Django, Docker
