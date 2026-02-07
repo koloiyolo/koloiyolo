@@ -21,17 +21,17 @@
 * Deployment and administration of Proxmox virtual machines, Windows Server, and SQL Server instances.
 
 ### My stack
-* 🐍**Python**: `django`, `asyncio`, `uv/ruff`, `jupyter`, `scikit-learn`
-* 🦀**Rust**: `tokio`, `axum`, `serde`
-* 📊**Storage**: Nats, PostgreSQL (TimescaleDB), InfluxDB
-* 💻**Technologies**: Docker, Linux (Nix, Fedora), Ansible, CI, OpenAPI, Git, REST, WebSocket
-* 🛰️**Space**: Satellite Integration tests, Mission Control Operations, PUS, SpacePacket and CCSDS
+* 🐍 **Python**: `django`, `asyncio`, `uv/ruff`, `jupyter`, `scikit-learn`
+* 🦀 **Rust**: `tokio`, `axum`, `serde`
+* 📊 **Storage**: Nats, PostgreSQL (TimescaleDB), InfluxDB
+* 💻 **Technologies**: Docker, Linux (Nix, Fedora), Ansible, CI, OpenAPI, Git, REST, WebSocket
+* 🛰️ **Space**: Satellite Integration tests, Mission Control Operations, PUS, SpacePacket and CCSDS
 
 ### Projects
-* 🐍[**My engineering thesis project**](https://github.com/koloiyolo/engineering_thesis_django) - log clusterization and device monitoring system.
-* 🦀[**minihashcat**](https://github.com/koloiyolo/minihashcat) - multithreaded CLI tool that imitates hashcat. Rust, Multithreading
-* 🐍[**sklearn_minisom**](https://github.com/koloiyolo/minisom) - **minisom** library wrapper for Scikit-learn. Python, ML, Scikit-learn
-* 🐍[**algorithms**](https://github.com/koloiyolo/algorithms) - web server serving API endpoints for ML algorithms. Python, ML, Flask, Docker
+* 🐍 [**My engineering thesis project**](https://github.com/koloiyolo/engineering_thesis_django) - log clusterization and device monitoring system.
+* 🦀 [**minihashcat**](https://github.com/koloiyolo/minihashcat) - multithreaded CLI tool that imitates hashcat. Rust, Multithreading
+* 🐍 [**sklearn_minisom**](https://github.com/koloiyolo/minisom) - **minisom** library wrapper for Scikit-learn. Python, ML, Scikit-learn
+* 🐍 [**algorithms**](https://github.com/koloiyolo/algorithms) - web server serving API endpoints for ML algorithms. Python, ML, Flask, Docker
 
 ### Education & Qualifications
 * Bachelor of Engineering in Information Technology, **University of Silesia**, 2025
