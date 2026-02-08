@@ -9,13 +9,13 @@
 
 ## Working Experience
 
-### Creotech Instruments S.A. – Junior Mission Control Engineer (08/2025 – present)
+### Creotech Instruments S.A. -- Junior Mission Control Engineer (08/2025 – present)
 * Development and maintenance of internal tools and critical Mission Control software.
 * Integration of external software from third‑party suppliers.
 * Construction of the in‑house Mission Control system from scratch using modern, memory‑ and type‑safe technologies in the Rust ecosystem.
 * Execution of in‑orbit and Mission Control operations, as well as on‑ground satellite integration tests.
 
-### Cema Mystal sp. z o.o.	 (IT Administrator, 11/2023 - 07/2025)
+### Cema Mystal sp. z o.o. -- IT Administrator (11/2023 - 07/2025)
 * Modification and enhancement of the company ERP system and other IT platforms to improve functionality and efficiency.
 * Development of internal tools for data‑extraction and processing pipelines using Python, Qt, and SQL.
 * Deployment and administration of Proxmox virtual machines, Windows Server, and SQL Server instances.
