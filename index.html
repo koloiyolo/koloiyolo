@@ -22,14 +22,19 @@
             body {
                 margin: auto;
             }
-            media screen {
-                zero-md::part(markdown-body) {
-                    padding: 16px;
-                }
-            }
         </style>
     </head>
     <body>
-        <zero-md src="CV.md"></zero-md>
+        <zero-md src="CV.md">
+            <template data-append>
+                <style>
+                    @media screen {
+                        .markdown-body {
+                            padding: 16px;
+                        }
+                    }
+                </style>
+            </template>
+        </zero-md>
     </body>
 </html>
