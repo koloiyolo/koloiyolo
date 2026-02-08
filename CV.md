@@ -13,7 +13,7 @@
 * Development and maintenance of internal tools and critical Mission Control software.
 * Integration of external software from third‑party suppliers.
 * Construction of the in‑house Mission Control system from scratch using modern, memory‑ and type‑safe technologies in the Rust ecosystem.
-* Execution of in‑orbit and Mission Control operations, as well as on‑ground satellite integration tests.
+* Execution of in‑orbit Mission Control operations, as well as on‑ground satellite integration tests.
 
 ### Cema Mystal sp. z o.o. -- IT Administrator (11/2023 - 07/2025)
 * Modification and enhancement of the company ERP system and other IT platforms to improve functionality and efficiency.
