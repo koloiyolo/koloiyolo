@@ -1,11 +1,11 @@
-# [Jakub Kołodziej](https://koloiyolo.github.io/koloiyolo/)
+# [Jakub Kołodziej][cv]
 
 |Github: [koloiyolo][github]|Linkedin: [Jakub Kołodziej][linkedin]|E-Mail: [jakvb.kolodziej@gmail.com][mail]|
 |-|-|-|
 
-* 2 years IT Administrator experience, currently Mission Control Operations Engineer.
-* Hand-on experience in [Proxmox], [SQL Server][sql_server],
-  [Ansible], [Python], Linux, [Rust].
+* **Mission Control Software Engineer**, previously IT System
+  Administrator.
+* Hand-on experience in [Python], [Rust], Linux, [Ansible], [Proxmox], [SQL Server][sql_server].
 * [Rust], Space and new technology enthusiast.
 
 ## Working Experience
@@ -77,6 +77,8 @@ agreement with Regulation (EU) 2016/679 of the European Parliament and of
 the Council of 27 April 2016 on the protection of natural persons with
 regard to the processing of personal data and on the free movement of
 such data, and repealing Directive 95/46/EC (General Data Protection Regulation).
+
+[cv]: https://koloiyolo.github.io/koloiyolo/
 
 [github]: https://github.com/koloiyolo
 [linkedin]: https://www.linkedin.com/in/jakub-ko%C5%82odziej/
