@@ -1,0 +1,7 @@
+repos:
+  - repo: local
+    hooks:
+      - id: lint
+        name: mdlint
+        language: system
+        entry: uvx mdlint check
