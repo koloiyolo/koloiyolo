@@ -48,7 +48,7 @@
 **[University of Silesia][university_of_silesia]**, *2021 - 2025*
 
 * Thesis: *Device monitoring and log management system*: [repository][engineering_thesis]
-* Grade: 5, GPA: 3.5
+* Grade: 5, GPA: 3.5 (4.5)
 * Certifications I obtained during my University and free time: [certificates]
 
 ## Projects
@@ -56,6 +56,12 @@
 * 🦀 **[minihashcat]** - multithreaded CLI tool that imitates hashcat: [Rust]
 * 🏠 **[dotfiles]** - repository containing my personal laptop,
   local LLM and homelab IaC: [Ansible]
+
+### OSS Contributions
+
+🦀 **[Rust]**: [spacepackets-rs], [RustScan]
+
+🧩 **Other**: [Cephalon Navis][navis]
 
 ## Misc. Information
 
@@ -96,5 +102,9 @@ such data, and repealing Directive 95/46/EC (General Data Protection Regulation)
 [minihashcat]: https://github.com/koloiyolo/minihashcat
 [certificates]: https://github.com/koloiyolo/certificates
 [dotfiles]: https://github.com/koloiyolo/dotfiles
+
+[spacepackets-rs]: https://github.com/us-irs/spacepackets-rs
+[RustScan]: https://github.com/bee-san/RustScan
+[navis]: https://github.com/WFCD/navis
 
 [MIKROGLOB]: https://creotech.pl/news/agreement-for-the-delivery-of-the-satellite-earth-observation-system-under-the-mikroglob-program/
