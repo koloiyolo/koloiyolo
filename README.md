@@ -5,12 +5,14 @@
 
 * **Mission Control Software Engineer**, previously IT System
   Administrator.
-* Hand-on experience in [Python], [Rust], Linux, [Ansible], [Proxmox], [SQL Server][sql_server].
-* [Rust], Space and new technology enthusiast.
+* Hands-on experience in [Python], [Rust], Linux, [Ansible], [Proxmox],
+  [SQL Server][sql_server], Space standards.
 
 ## Working Experience
 
-### Creotech Instruments S.A. -- Junior Mission Control Engineer (08/2025 – present)
+### Creotech Instruments S.A. *08/2025 – present*
+
+#### Junior Mission Control Engineer
 
 * Maintenance of internal tools and critical Mission Control software:
   [Python], [Ansible].
@@ -22,8 +24,11 @@
 * Key participation in Poland's highest-value satellite defense contract:
   [MIKROGLOB]
 
-### Cema Mystal sp. z o.o. -- IT Administrator (11/2023 - 07/2025)
+### Cema Mystal sp. z o.o. *11/2023 - 07/2025*
 
+#### IT System Administrator
+
+* Management of over 40 users and endpoints.
 * Modification and enhancement of the company ERP system and
   other IT platforms to improve functionality and efficiency.
 * Development of internal tools for data‑extraction
@@ -47,8 +52,8 @@
 
 **[University of Silesia][university_of_silesia]**, *2021 - 2025*
 
-* Thesis: *Device monitoring and log management system*: [repository][engineering_thesis]
-* Grade: 5, GPA: 3.5 (4.5)
+* **Thesis**: *Device monitoring and log management system*: [repository][engineering_thesis]
+* **Thesis grade**: 5, **GPA**: 3.5 (≈ 4.5 PL)
 * Certifications I obtained during my University and free time: [certificates]
 
 ## Projects
@@ -68,7 +73,7 @@
 * **Languages**: English (B2), Polish (fluent/native)
 * **Availability**: 1 month
 
-## GDPR / RODO(PL)
+### GDPR / RODO (PL)
 
 I agree to the processing of personal data provided in this document for
 realising the recruitment process pursuant to the Personal Data
