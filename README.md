@@ -1,12 +1,9 @@
 # [Jakub Kołodziej][cv]
 
+Software Engineer in Mission Control
+
 |Github: [koloiyolo][github]|Linkedin: [Jakub Kołodziej][linkedin]|E-Mail: [jakvb.kolodziej@gmail.com][mail]|
 |-|-|-|
-
-* **Mission Control Software Engineer**, previously IT System
-  Administrator.
-* Hands-on experience in [Python], [Rust], [Docker], Linux, [Ansible],
-  [Proxmox], [SQL Server], Space standards.
 
 ## Working Experience
 
@@ -14,26 +11,26 @@
 
 #### Junior Mission Control Engineer
 
-* Maintenance of internal tools and critical Mission Control software:
-  [Python], [Ansible], [Docker].
-* Integration of external software from third‑party suppliers.
+* Maintained internal tools and critical Mission Control software in
+  [Python], [Ansible], and [Docker].
+* Integrated external software from third‑party suppliers.
 * Developed the internal Mission Control System in [Rust] from the ground up,
   using the modern [tokio] async stack.
-* Execution of in‑orbit Mission Control operations,
+* Executed in‑orbit Mission Control operations,
   as well as on‑ground satellite integration tests.
-* Key participation in Poland's highest-value satellite defense contract:
+* Contributed to Poland's highest-value satellite defense contract:
   [MIKROGLOB]
 
 ### Cema Mystal sp. z o.o. *11/2023 - 07/2025*
 
 #### IT System Administrator
 
-* Management of over 40 users and endpoints.
-* Modification and enhancement of the company ERP system and
-  other IT platforms to improve functionality and efficiency.
-* Development of internal tools for data‑extraction
-  and processing pipelines: [Python], Qt SQL.
-* Deployment and administration of:
+* Managed over 40 users and endpoints.
+* Extended the company ERP system beyond vendor capabilities, implementing
+  custom workflows for internal operations.
+* Developed internal tools for data‑extraction
+  and processing pipelines: [Python], Qt, SQL.
+* Deployed and administered:
   [Proxmox] VMs, Windows Server, and [SQL Server] instances.
 
 ## My tech stack
@@ -45,7 +42,7 @@
 | Databases and queues | [NATS], [PostgreSQL] (TimescaleDB), [SQL Server] |
 | Infrastructure | [Docker], Linux, [Proxmox], [Ansible] |
 | Tools | [git], [uv], [OpenAPI] |
-| Domain | Mission Control, ECSS, CCSDS, PUS, REST API |  
+| Domain | Mission Control, ECSS, CCSDS, PUS, REST API |
 
 ## Education & Qualifications
 
@@ -59,15 +56,17 @@
 
 ## Projects
 
-* 🦀 **[minihashcat]** - multithreaded CLI tool that imitates hashcat: [Rust]
+* 🦀 **[minihashcat]** - multithreaded CLI tool
+  implementing hashcat-like functionality: [Rust]
 * 🏠 **[dotfiles]** - repository containing my personal laptop,
   local LLM and homelab IaC: [Ansible]
 
 ### OSS Contributions
 
-🦀 **[Rust]**: [spacepackets-rs], [RustScan]
-
-🧩 **Other**: [Cephalon Navis][navis]
+| Language | Projects |
+|-|-|
+| 🦀 [Rust] | [spacepackets-rs], [RustScan] |
+| 🧩 Other | [Cephalon Navis][navis] |
 
 ## Misc. Information
 
