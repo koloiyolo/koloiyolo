@@ -5,8 +5,8 @@
 
 * **Mission Control Software Engineer**, previously IT System
   Administrator.
-* Hands-on experience in [Python], [Rust], [Docker], Linux, [Ansible], [Proxmox],
-  [SQL Server][sql_server], Space standards.
+* Hands-on experience in [Python], [Rust], [Docker], Linux, [Ansible],
+  [Proxmox], [SQL Server], Space standards.
 
 ## Working Experience
 
@@ -17,8 +17,8 @@
 * Maintenance of internal tools and critical Mission Control software:
   [Python], [Ansible], [Docker].
 * Integration of external software from third‑party suppliers.
-* Development of the internal Mission Control System in
-  [Rust Programming Language][Rust] utilizing modern [tokio] stack.
+* Developed the internal Mission Control System in [Rust] from the ground up,
+  using the modern [tokio] async stack.
 * Execution of in‑orbit Mission Control operations,
   as well as on‑ground satellite integration tests.
 * Key participation in Poland's highest-value satellite defense contract:
@@ -34,17 +34,18 @@
 * Development of internal tools for data‑extraction
   and processing pipelines: [Python], Qt SQL.
 * Deployment and administration of:
-  [Proxmox] VMs, Windows Server, and SQL Server instances.
+  [Proxmox] VMs, Windows Server, and [SQL Server] instances.
 
-## My stack
+## My tech stack
 
-* 🐍 **[Python]**: `django`, `asyncio`, [uv], `jupyter`, `scikit-learn`
-* 🦀 **[Rust]**: [tokio], [axum], `serde`
-* 📊 **Storage**: [NATS], [PostgreSQL][postgre] (TimescaleDB), [SQL Server][sql_server]
-* 💻 **Technologies**: [Docker], Linux (Nix, Fedora), [Proxmox], [Ansible], CI,
-  OpenAPI, [git], REST API, WebSocket
-* 🛰️ **Space**: Satellite Integration tests, Mission Control Operations,
-  PUS, ECSS, CCSDS
+| Category | Skills |
+|-|-|
+| Languages | [Python] 🐍, [Rust] 🦀 |
+| Frameworks | [tokio], [axum], [django], [asyncio], [serde], [scikit-learn] |
+| Databases and queues | [NATS], [PostgreSQL] (TimescaleDB), [SQL Server] |
+| Infrastructure | [Docker], Linux, [Proxmox], [Ansible] |
+| Tools | [git], [uv], [OpenAPI] |
+| Domain | Mission Control, ECSS, CCSDS, PUS, REST API |  
 
 ## Education & Qualifications
 
@@ -92,8 +93,12 @@ such data, and repealing Directive 95/46/EC (General Data Protection Regulation)
 [Rust]: https://rust-lang.org/
 [tokio]: https://tokio.rs/
 [axum]: https://github.com/tokio-rs/axum
+[serde]: https://serde.rs/
 
 [Python]: https://www.python.org/
+[django]: https://www.djangoproject.com/
+[asyncio]: https://docs.python.org/3/library/asyncio.html
+[scikit-learn]: https://scikit-learn.org/stable/
 [uv]: https://docs.astral.sh/uv/
 
 [Docker]: https://www.docker.com/
@@ -101,9 +106,11 @@ such data, and repealing Directive 95/46/EC (General Data Protection Regulation)
 [Ansible]: https://docs.ansible.com/
 
 [NATS]: https://nats.io
-[postgre]: https://www.postgresql.org.pl/
+[PostgreSQL]: https://www.postgresql.org.pl/
+[SQL Server]: https://www.microsoft.com/pl-pl/sql-server
+
+[OpenAPI]: https://swagger.io/specification/
 [git]: https://git-scm.com/
-[sql_server]: https://www.microsoft.com/pl-pl/sql-server
 
 [university_of_silesia]: https://us.edu.pl/en/
 
