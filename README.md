@@ -5,7 +5,7 @@
 
 * **Mission Control Software Engineer**, previously IT System
   Administrator.
-* Hands-on experience in [Python], [Rust], Linux, [Ansible], [Proxmox],
+* Hands-on experience in [Python], [Rust], [Docker], Linux, [Ansible], [Proxmox],
   [SQL Server][sql_server], Space standards.
 
 ## Working Experience
@@ -15,7 +15,7 @@
 #### Junior Mission Control Engineer
 
 * Maintenance of internal tools and critical Mission Control software:
-  [Python], [Ansible].
+  [Python], [Ansible], [Docker].
 * Integration of external software from third‑party suppliers.
 * Development of the internal Mission Control System in
   [Rust Programming Language][Rust] utilizing modern [tokio] stack.
@@ -41,7 +41,7 @@
 * 🐍 **[Python]**: `django`, `asyncio`, [uv], `jupyter`, `scikit-learn`
 * 🦀 **[Rust]**: [tokio], [axum], `serde`
 * 📊 **Storage**: [NATS], [PostgreSQL][postgre] (TimescaleDB), [SQL Server][sql_server]
-* 💻 **Technologies**: Docker, Linux (Nix, Fedora), [Proxmox], [Ansible], CI,
+* 💻 **Technologies**: [Docker], Linux (Nix, Fedora), [Proxmox], [Ansible], CI,
   OpenAPI, [git], REST API, WebSocket
 * 🛰️ **Space**: Satellite Integration tests, Mission Control Operations,
   PUS, ECSS, CCSDS
@@ -96,10 +96,12 @@ such data, and repealing Directive 95/46/EC (General Data Protection Regulation)
 [Python]: https://www.python.org/
 [uv]: https://docs.astral.sh/uv/
 
-[NATS]: https://nats.io
-[postgre]: https://www.postgresql.org.pl/
+[Docker]: https://www.docker.com/
 [Proxmox]: https://www.proxmox.com/en/
 [Ansible]: https://docs.ansible.com/
+
+[NATS]: https://nats.io
+[postgre]: https://www.postgresql.org.pl/
 [git]: https://git-scm.com/
 [sql_server]: https://www.microsoft.com/pl-pl/sql-server
 
