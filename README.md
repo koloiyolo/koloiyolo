@@ -62,7 +62,7 @@
 * **Languages**: English (B2), Polish (fluent/native)
 * **Availability**: 1 month
 
-## RODO
+## GDPR / RODO(PL)
 
 I agree to the processing of personal data provided in this document for
 realising the recruitment process pursuant to the Personal Data
