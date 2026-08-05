@@ -53,8 +53,9 @@
 
 ## Projects
 
-* 🦀 **[minihashcat]** - multithreaded CLI tool that imitates hashcat. [Rust]
-* 🏠 **[dotfiles]** - repository containing my personal laptop and homelab IaC
+* 🦀 **[minihashcat]** - multithreaded CLI tool that imitates hashcat: [Rust]
+* 🏠 **[dotfiles]** - repository containing my personal laptop,
+  local LLM and homelab IaC: [Ansible]
 
 ## Misc. Information
 
@@ -94,5 +95,6 @@ such data, and repealing Directive 95/46/EC (General Data Protection Regulation)
 [engineering_thesis]: https://github.com/koloiyolo/engineering_thesis_django
 [minihashcat]: https://github.com/koloiyolo/minihashcat
 [certificates]: https://github.com/koloiyolo/certificates
+[dotfiles]: https://github.com/koloiyolo/dotfiles
 
 [MIKROGLOB]: https://creotech.pl/news/agreement-for-the-delivery-of-the-satellite-earth-observation-system-under-the-mikroglob-program/
