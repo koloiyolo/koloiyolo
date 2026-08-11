@@ -2,20 +2,22 @@
 
 Software Engineer in Mission Control
 
-|Github: [koloiyolo][github]|Linkedin: [Jakub Kołodziej][linkedin]|E-Mail: [jakvb.kolodziej@gmail.com][mail]|
-|-|-|-|
+| Github: [koloiyolo][github] | Linkedin: [Jakub Kołodziej][linkedin] | E-Mail: [jakvb.kolodziej@gmail.com][mail] | Location: Warsaw, PL |
+|-|-|-|-|
+
+---
 
 ## Working Experience
 
 ### Creotech Instruments S.A. *08/2025 – present*
 
-#### Junior Mission Control Engineer
+#### Mission Control Software Engineer
 
 * Maintained internal tools and critical Mission Control software in
   [Python], [Ansible], and [Docker].
 * Integrated external software from third‑party suppliers.
 * Developed the internal Mission Control System in [Rust] from the ground up,
-  using the modern [tokio] async stack.
+  using the modern [tokio] async stack, according to [CCSDS] standards.
 * Executed in‑orbit Mission Control operations,
   as well as on‑ground satellite integration tests.
 * Contributed to Poland's highest-value satellite defense contract:
@@ -33,6 +35,8 @@ Software Engineer in Mission Control
 * Deployed and administered:
   [Proxmox] VMs, Windows Server, and [SQL Server] instances.
 
+---
+
 ## My tech stack
 
 | Category | Skills |
@@ -42,7 +46,9 @@ Software Engineer in Mission Control
 | Databases and queues | [NATS], [PostgreSQL] (TimescaleDB), [SQL Server] |
 | Infrastructure | [Docker], Linux, [Proxmox], [Ansible] |
 | Tools | [git], [uv], [OpenAPI] |
-| Domain | Mission Control, ECSS, CCSDS, PUS, REST API |
+| Domain | Mission Control, ECSS, [CCSDS], PUS, REST API |
+
+---
 
 ## Education & Qualifications
 
@@ -53,6 +59,8 @@ Software Engineer in Mission Control
 * **Thesis**: *Device monitoring and log management system*: [repository][engineering_thesis]
 * **Thesis grade**: 5, **GPA**: 3.5 (≈ 4.5 PL)
 * Certifications I obtained during my University and free time: [certificates]
+
+---
 
 ## Projects
 
@@ -66,7 +74,9 @@ Software Engineer in Mission Control
 | Language | Projects |
 |-|-|
 | 🦀 [Rust] | [spacepackets-rs], [RustScan] |
-| 🧩 Other | [Cephalon Navis][navis] |
+| 🧩 Other | 🎯 [Cephalon Navis], ☕ [Skyblocker] |
+
+---
 
 ## Misc. Information
 
@@ -120,6 +130,8 @@ such data, and repealing Directive 95/46/EC (General Data Protection Regulation)
 
 [spacepackets-rs]: https://github.com/us-irs/spacepackets-rs
 [RustScan]: https://github.com/bee-san/RustScan
-[navis]: https://github.com/WFCD/navis
+[Cephalon Navis]: https://github.com/WFCD/navis
+[Skyblocker]: https://github.com/SkyblockerMod/Skyblocker
 
+[CCSDS]: https://ccsds.org/publications/bluebooks/
 [MIKROGLOB]: https://creotech.pl/news/agreement-for-the-delivery-of-the-satellite-earth-observation-system-under-the-mikroglob-program/
