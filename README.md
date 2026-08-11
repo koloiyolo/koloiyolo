@@ -11,15 +11,17 @@ Software Engineer in Mission Control
 
 #### Mission Control Software Engineer
 
+* Developed the internal Mission Control System in [Rust] from the ground up,
+  using the modern [tokio] async stack, according to [CCSDS] standards.
+* Contributed to projects [PIAST] and Poland's highest-value satellite
+  defense contract: [MIKROGLOB].
+* Executed in‑orbit Mission Control operations,
+  as well as on‑ground satellite integration tests.
 * Maintained internal tools and critical Mission Control software in
   [Python], [Ansible], and [Docker].
 * Integrated external software from third‑party suppliers.
-* Developed the internal Mission Control System in [Rust] from the ground up,
-  using the modern [tokio] async stack, according to [CCSDS] standards.
 * Executed in‑orbit Mission Control operations,
   as well as on‑ground satellite integration tests.
-* Contributed to Poland's highest-value satellite defense contract:
-  [MIKROGLOB]
 
 ### Cema Mystal sp. z o.o. *11/2023 - 07/2025*
 
@@ -124,4 +126,6 @@ such data, and repealing Directive 95/46/EC (General Data Protection Regulation)
 [Skyblocker]: https://github.com/SkyblockerMod/Skyblocker
 
 [CCSDS]: https://ccsds.org/publications/bluebooks/
+
+[PIAST]: https://creotech.pl/pl/przetargi-i-ogloszenia/nanosatelitarna-konstelacja-piast/
 [MIKROGLOB]: https://creotech.pl/news/agreement-for-the-delivery-of-the-satellite-earth-observation-system-under-the-mikroglob-program/
