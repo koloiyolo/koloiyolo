@@ -5,8 +5,6 @@ Software Engineer in Mission Control
 | Github: [koloiyolo][github] | Linkedin: [Jakub Kołodziej][linkedin] | E-Mail: [jakvb.kolodziej@gmail.com][mail] | Location: Warsaw, PL |
 |-|-|-|-|
 
----
-
 ## Working Experience
 
 ### Creotech Instruments S.A. *08/2025 – present*
@@ -35,8 +33,6 @@ Software Engineer in Mission Control
 * Deployed and administered:
   [Proxmox] VMs, Windows Server, and [SQL Server] instances.
 
----
-
 ## My tech stack
 
 | Category | Skills |
@@ -48,19 +44,15 @@ Software Engineer in Mission Control
 | Tools | [git], [uv], [OpenAPI] |
 | Domain | Mission Control, ECSS, [CCSDS], PUS, REST API |
 
----
-
 ## Education & Qualifications
 
 ### Bachelor of Engineering in Information Technology
 
-**[University of Silesia][university_of_silesia]**, *2021 - 2025*
+**[University of Silesia]**, *2021 - 2025*
 
 * **Thesis**: *Device monitoring and log management system*: [repository][engineering_thesis]
 * **Thesis grade**: 5, **GPA**: 3.5 (≈ 4.5 PL)
 * Certifications I obtained during my University and free time: [certificates]
-
----
 
 ## Projects
 
@@ -75,8 +67,6 @@ Software Engineer in Mission Control
 |-|-|
 | 🦀 [Rust] | [spacepackets-rs], [RustScan] |
 | 🧩 Other | 🎯 [Cephalon Navis], ☕ [Skyblocker] |
-
----
 
 ## Misc. Information
 
@@ -121,7 +111,7 @@ such data, and repealing Directive 95/46/EC (General Data Protection Regulation)
 [OpenAPI]: https://swagger.io/specification/
 [git]: https://git-scm.com/
 
-[university_of_silesia]: https://us.edu.pl/en/
+[University of Silesia]: https://us.edu.pl/en/
 
 [engineering_thesis]: https://github.com/koloiyolo/engineering_thesis_django
 [minihashcat]: https://github.com/koloiyolo/minihashcat
