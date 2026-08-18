@@ -14,7 +14,7 @@ Software Engineer in Mission Control
 * Developed the internal Mission Control System in [Rust] from the ground up,
   using the modern [tokio] async stack, according to [CCSDS] standards.
 * Contributed to projects [PIAST] and Poland's highest-value satellite
-  defense contract: [MIKROGLOB].
+  defense contract [MIKROGLOB].
 * Executed in‑orbit Mission Control operations,
   as well as on‑ground satellite integration tests.
 * Maintained internal tools and critical Mission Control software in
@@ -60,8 +60,8 @@ Software Engineer in Mission Control
 
 * 🦀 **[minihashcat]** - multithreaded CLI tool
   implementing hashcat-like functionality: [Rust]
-* 🏠 **[dotfiles]** - repository containing my personal laptop,
-  local LLM and homelab IaC: [Ansible]
+* 🏠 ❄️ 🤖 **[dotfiles]** - repository containing my personal laptop,
+  local LLM and homelab IaC: [Ansible] [Nix]
 
 ### OSS Contributions
 
@@ -105,6 +105,7 @@ such data, and repealing Directive 95/46/EC (General Data Protection Regulation)
 [Docker]: https://www.docker.com/
 [Proxmox]: https://www.proxmox.com/en/
 [Ansible]: https://docs.ansible.com/
+[Nix]: https://nixos.org/
 
 [NATS]: https://nats.io
 [PostgreSQL]: https://www.postgresql.org.pl/
