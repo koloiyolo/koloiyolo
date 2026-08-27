@@ -64,13 +64,14 @@ Software Engineer in Mission Control 🛰️
 
 ## Projects
 
-| Language  | Personal Projects                   | OSS Contributions                                         |
-| --------- | ----------------------------------- | --------------------------------------------------------- |
-| [Rust] 🦀 | [minihashcat]                       | [spacepackets-rs], [RustScan]                             |
-| Other 🧩  | [dotfiles] ([Ansible] 🏠, [Nix] ❄️) | [Cephalon Navis] ([Flutter] 🎯), [Skyblocker] ([Java] ☕) |
+| Language  | Personal Projects                                                    | OSS Contributions                                         |
+| --------- | -------------------------------------------------------------------- | --------------------------------------------------------- |
+| [Rust] 🦀 | [minihashcat]                                                        | [spacepackets-rs], [RustScan]                             |
+| Other 🧩  | [dotfiles] ([Ansible] 🏠, [Nix] ❄️), [sklearn_minisom] ([Python] 🐍) | [Cephalon Navis] ([Flutter] 🎯), [Skyblocker] ([Java] ☕) |
 
 [minihashcat]: https://github.com/koloiyolo/minihashcat
 [dotfiles]: https://github.com/koloiyolo/dotfiles
+[sklearn_minisom]: https://github.com/koloiyolo/sklearn_minisom
 [spacepackets-rs]: https://github.com/us-irs/spacepackets-rs
 [RustScan]: https://github.com/bee-san/RustScan
 [Cephalon Navis]: https://github.com/WFCD/navis
