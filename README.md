@@ -47,10 +47,10 @@ Software Engineer in Mission Control 🛰️
 | -------------------- | -------------------------------------------------------------------------------------- |
 | Languages            | [Python] 🐍, [Rust] 🦀                                                                 |
 | Frameworks           | [tokio], [axum], [serde], [asyncio], [django], [django REST framework], [scikit-learn] |
-| Databases and queues | [NATS], [PostgreSQL] (TimescaleDB), [SQL Server]                                       |
-| Infrastructure       | [Docker], Linux, [Proxmox], [Ansible]                                                  |
-| Tools                | [git], [uv], [poetry], [OpenAPI]                                                       |
-| Domain               | Mission Control, ECSS, [CCSDS], PUS, REST API                                          |
+| Databases and queues | [NATS], [MQTT], [PostgreSQL] (TimescaleDB), [SQL Server]                               |
+| Infrastructure       | [Docker], Linux, [Proxmox], [Ansible], [Nix]                                           |
+| Tools                | [git], [uv], [poetry], [OpenAPI], [Grafana] (LGTM Stack)                               |
+| Domain               | Mission Control, ECSS, [CCSDS], PUS, REST API, Event Driven Architecture               |
 
 ## Education & Qualifications
 
@@ -66,10 +66,11 @@ Software Engineer in Mission Control 🛰️
 
 | Language  | Personal Projects                                                    | OSS Contributions                                         |
 | --------- | -------------------------------------------------------------------- | --------------------------------------------------------- |
-| [Rust] 🦀 | [minihashcat]                                                        | [spacepackets-rs], [RustScan]                             |
+| [Rust] 🦀 | [minihashcat], [ccsds_parsers] 🚧                                    | [spacepackets-rs], [RustScan]                             |
 | Other 🧩  | [dotfiles] ([Ansible] 🏠, [Nix] ❄️), [sklearn_minisom] ([Python] 🐍) | [Cephalon Navis] ([Flutter] 🎯), [Skyblocker] ([Java] ☕) |
 
 [minihashcat]: https://github.com/koloiyolo/minihashcat
+[ccsds_parsers]: https://github.com/koloiyolo/ccsds_parsers
 [dotfiles]: https://github.com/koloiyolo/dotfiles
 [sklearn_minisom]: https://github.com/koloiyolo/sklearn_minisom
 [spacepackets-rs]: https://github.com/us-irs/spacepackets-rs
@@ -108,8 +109,10 @@ such data, and repealing Directive 95/46/EC (General Data Protection Regulation)
 [Docker]: https://www.docker.com/
 [Proxmox]: https://www.proxmox.com/en/
 [Ansible]: https://docs.ansible.com/
+[Grafana]: https://grafana.com/oss/grafana/
 [Nix]: https://nixos.org/
 [NATS]: https://nats.io
+[MQTT]: https://mqtt.org/
 [PostgreSQL]: https://www.postgresql.org.pl/
 [SQL Server]: https://www.microsoft.com/pl-pl/sql-server
 [OpenAPI]: https://swagger.io/specification/
