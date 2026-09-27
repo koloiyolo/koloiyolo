@@ -64,7 +64,7 @@ Software Engineer in Mission Control 🛰️
 
 ## Projects
 
-| Language  | Personal Projects                                                    | OSS Contributions                                         |
+| Language  | Personal Projects                                                    | ![OSS Contributions](oss-badge.svg)                       |
 | --------- | -------------------------------------------------------------------- | --------------------------------------------------------- |
 | [Rust] 🦀 | [minihashcat], [ccsds_parsers] 🚧                                    | [spacepackets-rs], [RustScan]                             |
 | Other 🧩  | [dotfiles] ([Ansible] 🏠, [Nix] ❄️), [sklearn_minisom] ([Python] 🐍) | [Cephalon Navis] ([Flutter] 🎯), [Skyblocker] ([Java] ☕) |

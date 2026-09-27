@@ -17,3 +17,5 @@ jobs:
           github-token: ${{ secrets.SPECIAL_REPOSITORY_TOKEN }}
           badge-output-path: "oss-badge.svg"
           badge-style: "compact"
+          badge-theme: "nord"
+          badge-type: "text-based"
