@@ -18,4 +18,4 @@ jobs:
           badge-output-path: "oss-badge.svg"
           badge-style: "compact"
           badge-theme: "nord"
-          badge-type: "text-based"
+          badge-variant: "text-based"
