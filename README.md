@@ -64,9 +64,9 @@ Software Engineer in Mission Control 🛰️
 
 ## Projects
 
-| Language  | Personal Projects                                                    | ![OSS Contributions](oss-badge.svg)                       |
+| Language  | Personal Projects                                                    | OSS Contributions - Projects: 8 - PRs: 9                  |
 | --------- | -------------------------------------------------------------------- | --------------------------------------------------------- |
-| [Rust] 🦀 | [minihashcat], [ccsds_parsers] 🚧                                    | [spacepackets-rs], [RustScan]                             |
+| [Rust] 🦀 | [minihashcat], [ccsds_parsers] 🚧                                    | [spacepackets-rs], [RustScan], [ncspot]                   |
 | Other 🧩  | [dotfiles] ([Ansible] 🏠, [Nix] ❄️), [sklearn_minisom] ([Python] 🐍) | [Cephalon Navis] ([Flutter] 🎯), [Skyblocker] ([Java] ☕) |
 
 [minihashcat]: https://github.com/koloiyolo/minihashcat
@@ -75,6 +75,7 @@ Software Engineer in Mission Control 🛰️
 [sklearn_minisom]: https://github.com/koloiyolo/sklearn_minisom
 [spacepackets-rs]: https://github.com/us-irs/spacepackets-rs
 [RustScan]: https://github.com/bee-san/RustScan
+[ncspot]: https://github.com/hrkfdn/ncspot/pull/1863
 [Cephalon Navis]: https://github.com/WFCD/navis
 [Skyblocker]: https://github.com/SkyblockerMod/Skyblocker
 [Flutter]: https://flutter.dev/
@@ -118,3 +119,7 @@ such data, and repealing Directive 95/46/EC (General Data Protection Regulation)
 [OpenAPI]: https://swagger.io/specification/
 [git]: https://git-scm.com/
 [CCSDS]: https://ccsds.org/publications/bluebooks/
+
+## Statistics
+
+![OSS Contributions Badge](oss-badge.svg)
