@@ -43,14 +43,13 @@ Software Engineer in Mission Control 🛰️
 
 ## Skills
 
-| Category             | Skills                                                                                 |
-| -------------------- | -------------------------------------------------------------------------------------- |
-| Languages            | [Python] 🐍, [Rust] 🦀                                                                 |
-| Frameworks           | [tokio], [axum], [serde], [asyncio], [django], [django REST framework], [scikit-learn] |
-| Databases and queues | [NATS], [MQTT], [PostgreSQL] (TimescaleDB), [SQL Server]                               |
-| Infrastructure       | [Docker], Linux, [Proxmox], [Ansible], [Nix]                                           |
-| Tools                | [git], [uv], [poetry], [OpenAPI], [Grafana] (LGTM Stack)                               |
-| Domain               | Mission Control, ECSS, [CCSDS], PUS, REST API, Event Driven Architecture               |
+| Category               | Skills                                                                                                                    |
+| ---------------------- | ------------------------------------------------------------------------------------------------------------------------- |
+| Languages & Frameworks | [Python] 🐍([asyncio], [django], [django REST framework], [pytest], [scikit-learn]), [Rust] 🦀 ([tokio], [axum], [serde]) |
+| Databases & queues     | [NATS], [MQTT], [PostgreSQL] (TimescaleDB), [SQL Server]                                                                  |
+| Infrastructure         | [Docker], Linux, [Proxmox], [Ansible], [Nix]                                                                              |
+| Tools                  | [git], [uv], [poetry], [OpenAPI], [Grafana] (LGTM Stack), [commitizen]                                                    |
+| Domain                 | Mission Control, ECSS, [CCSDS], PUS, REST API, Event Driven Architecture                                                  |
 
 ## Education & Qualifications
 
@@ -64,10 +63,10 @@ Software Engineer in Mission Control 🛰️
 
 ## Projects
 
-| Language  | Personal Projects                                                    | OSS Contributions - Projects: 8 - PRs: 9                  |
-| --------- | -------------------------------------------------------------------- | --------------------------------------------------------- |
-| [Rust] 🦀 | [minihashcat], [ccsds_parsers] 🚧                                    | [spacepackets-rs], [RustScan], [ncspot]                   |
-| Other 🧩  | [dotfiles] ([Ansible] 🏠, [Nix] ❄️), [sklearn_minisom] ([Python] 🐍) | [Cephalon Navis] ([Flutter] 🎯), [Skyblocker] ([Java] ☕) |
+| Language  | Personal Projects                                 | OSS Contributions - Projects: 8 - PRs: 9                                 |
+| --------- | ------------------------------------------------- | ------------------------------------------------------------------------ |
+| [Rust] 🦀 | [minihashcat], [ccsds_parsers] 🚧                 | [spacepackets-rs], [RustScan], [ncspot]                                  |
+| Other 🧩  | [dotfiles] ([🏠], [❄️]), [sklearn_minisom] ([🐍]) | [Cephalon Navis] ([🎯]), [Skyblocker] ([☕]), [commitizen-docker] ([🐋]) |
 
 [minihashcat]: https://github.com/koloiyolo/minihashcat
 [ccsds_parsers]: https://github.com/koloiyolo/ccsds_parsers
@@ -78,8 +77,10 @@ Software Engineer in Mission Control 🛰️
 [ncspot]: https://github.com/hrkfdn/ncspot/pull/1863
 [Cephalon Navis]: https://github.com/WFCD/navis
 [Skyblocker]: https://github.com/SkyblockerMod/Skyblocker
-[Flutter]: https://flutter.dev/
-[Java]: https://docs.oracle.com/en/java/
+[commitizen-docker]: https://github.com/commitizen-tools/commitizen-docker-image/pull/28
+[commitizen]: https://commitizen-tools.github.io/commitizen/
+[🎯]: https://flutter.dev/
+[☕]: https://docs.oracle.com/en/java/
 
 ## Misc. Information
 
@@ -101,17 +102,22 @@ such data, and repealing Directive 95/46/EC (General Data Protection Regulation)
 [axum]: https://github.com/tokio-rs/axum
 [serde]: https://serde.rs/
 [Python]: https://www.python.org/
+[🐍]: https://www.python.org/
 [django]: https://www.djangoproject.com/
 [django REST framework]: https://www.django-rest-framework.org/
 [asyncio]: https://docs.python.org/3/library/asyncio.html
 [scikit-learn]: https://scikit-learn.org/stable/
 [uv]: https://docs.astral.sh/uv/
+[pytest]: https://docs.pytest.org/en/stable/
 [poetry]: https://python-poetry.org/
 [Docker]: https://www.docker.com/
+[🐋]: https://www.docker.com/
 [Proxmox]: https://www.proxmox.com/en/
 [Ansible]: https://docs.ansible.com/
+[🏠]: https://docs.ansible.com/
 [Grafana]: https://grafana.com/oss/grafana/
 [Nix]: https://nixos.org/
+[❄️]: https://nixos.org/
 [NATS]: https://nats.io
 [MQTT]: https://mqtt.org/
 [PostgreSQL]: https://www.postgresql.org.pl/
