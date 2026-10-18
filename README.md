@@ -21,7 +21,7 @@ Software Engineer in Mission Control 🛰️
 - Executed in‑orbit Mission Control operations,
   as well as on‑ground satellite integration tests.
 - Maintained internal tools and critical Mission Control software in
-  [Python], [Ansible], and [Docker].
+  [Python], [django REST framework], [Ansible], and [Docker].
 - Integrated external software from third‑party suppliers.
 
 [Creotech Instruments S.A.]: https://creotech.pl/
@@ -65,7 +65,7 @@ Software Engineer in Mission Control 🛰️
 
 | Language  | Personal Projects                                 | OSS Contributions - Projects: 8 - PRs: 9                                 |
 | --------- | ------------------------------------------------- | ------------------------------------------------------------------------ |
-| [Rust] 🦀 | [minihashcat], [ccsds_parsers] 🚧                 | [spacepackets-rs], [RustScan], [ncspot]                                  |
+| [Rust] 🦀 | [minihashcat], [ccsds_parsers]                    | [spacepackets-rs], [RustScan], [ncspot]                                  |
 | Other 🧩  | [dotfiles] ([🏠], [❄️]), [sklearn_minisom] ([🐍]) | [Cephalon Navis] ([🎯]), [Skyblocker] ([☕]), [commitizen-docker] ([🐋]) |
 
 [minihashcat]: https://github.com/koloiyolo/minihashcat
