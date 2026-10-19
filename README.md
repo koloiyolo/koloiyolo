@@ -12,7 +12,7 @@ Software Engineer in Mission Control 🛰️
 
 ## Working Experience
 
-### Mission Control Software Engineer - [Creotech Instruments S.A.] _08/2025 - present_
+### Mission Control Software Engineer - [Creotech Instruments S.A.], Warsaw _08/2025 - present_
 
 - Developed the internal Mission Control System in [Rust] from the ground up,
   using the modern [tokio] async stack, according to [CCSDS].
@@ -28,7 +28,7 @@ Software Engineer in Mission Control 🛰️
 [PIAST]: https://creotech.pl/pl/przetargi-i-ogloszenia/nanosatelitarna-konstelacja-piast/
 [MIKROGLOB]: https://creotech.pl/news/agreement-for-the-delivery-of-the-satellite-earth-observation-system-under-the-mikroglob-program/
 
-### IT System Administrator - Cema Mystal sp. z o.o. _11/2023 - 07/2025_
+### IT System Administrator - Cema Mystal sp. z o.o., Myszków _11/2023 - 07/2025_
 
 - Managed and monitored over 40 users and endpoints via [Zabbix] and [Wazuh].
 - Extended the company ERP system beyond vendor capabilities, implementing
