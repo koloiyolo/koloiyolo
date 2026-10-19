@@ -46,10 +46,10 @@ Software Engineer in Mission Control 🛰️
 | Category               | Skills                                                                                                                    |
 | ---------------------- | ------------------------------------------------------------------------------------------------------------------------- |
 | Languages & Frameworks | [Python] 🐍([asyncio], [django], [django REST framework], [pytest], [scikit-learn]), [Rust] 🦀 ([tokio], [axum], [serde]) |
-| Databases & queues     | [NATS], [MQTT], [PostgreSQL] (TimescaleDB), [SQL Server]                                                                  |
-| Infrastructure         | [Docker], Linux, [Proxmox], [Ansible], [Nix]                                                                              |
-| Tools                  | [git], [uv], [poetry], [OpenAPI], [Grafana] (LGTM Stack), [commitizen]                                                    |
-| Domain                 | Mission Control, ECSS, [CCSDS], PUS, REST API, Event Driven Architecture                                                  |
+| Databases & queues     | [NATS], [MQTT], [PostgreSQL] ([TimescaleDB]), [SQL Server], [SQLite3]                                                     |
+| Infrastructure         | [Docker], Linux (RHEL deriatives), [Ansible], [Nix], [Proxmox], [Grafana] ([LGTM Stack]),                                 |
+| Tools                  | [git], [uv], [poetry], [Gitlab CI], [commitizen], [Gitlab CI], [Zed] (Builtin Codex support)                              |
+| Domain                 | REST API, [OpenAPI], Event Driven Architecture, [CCSDS], PUS, Mission Control, ECSS                                       |
 
 ## Education & Qualifications
 
@@ -116,15 +116,20 @@ such data, and repealing Directive 95/46/EC (General Data Protection Regulation)
 [Ansible]: https://docs.ansible.com/
 [🏠]: https://docs.ansible.com/
 [Grafana]: https://grafana.com/oss/grafana/
+[LGTM Stack]: https://grafana.com/about/grafana-stack/
 [Nix]: https://nixos.org/
 [❄️]: https://nixos.org/
 [NATS]: https://nats.io
 [MQTT]: https://mqtt.org/
 [PostgreSQL]: https://www.postgresql.org.pl/
+[TimescaleDB]: https://github.com/timescale/timescaledb
+[SQLite3]: https://www.sqlite.org/lang.html
 [SQL Server]: https://www.microsoft.com/pl-pl/sql-server
 [OpenAPI]: https://swagger.io/specification/
 [git]: https://git-scm.com/
 [CCSDS]: https://ccsds.org/publications/bluebooks/
+[Gitlab CI]: https://docs.gitlab.com/ci/yaml/
+[Zed]: https://zed.dev/
 
 ## Statistics
 
