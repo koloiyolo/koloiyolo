@@ -21,7 +21,7 @@ Software Engineer in Mission Control 🛰️
 - Executed in‑orbit Mission Control operations,
   as well as on‑ground satellite integration tests.
 - Maintained internal tools and critical Mission Control software in
-  [Python], [django REST framework], [Ansible], and [Docker].
+  [Python], [pytest], [django REST framework], [Ansible], and [Docker].
 - Integrated external software from third‑party suppliers.
 
 [Creotech Instruments S.A.]: https://creotech.pl/
