@@ -1,11 +1,9 @@
-# [Jakub Kołodziej][cv]
+# Jakub Kołodziej
 
 Software Engineer in Mission Control 🛰️
 
-| Github: [koloiyolo][github] | Linkedin: [Jakub Kołodziej][linkedin] | E-Mail: [jakvb.kolodziej@gmail.com][mail] | Location: Warsaw, PL |
-| --------------------------- | ------------------------------------- | ----------------------------------------- | -------------------- |
+● Github: [koloiyolo][github] ● Linkedin: [Jakub Kołodziej][linkedin] ● E-Mail: [jakvb.kolodziej@gmail.com][mail] ● Location: Warsaw, PL ●
 
-[cv]: https://koloiyolo.github.io/koloiyolo/
 [github]: https://github.com/koloiyolo
 [linkedin]: https://www.linkedin.com/in/jakub-ko%C5%82odziej/
 [mail]: mailto:jakvb.kolodziej@gmail.com
