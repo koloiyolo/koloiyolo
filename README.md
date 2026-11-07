@@ -63,7 +63,7 @@ Software Engineer in Mission Control 🛰️
 
 | Language  | Personal Projects                                 | OSS Contributions - Projects: 8 - PRs: 9                                 |
 | --------- | ------------------------------------------------- | ------------------------------------------------------------------------ |
-| [Rust] 🦀 | [minihashcat], [ccsds_parsers]                    | [spacepackets-rs], [RustScan], [ncspot]                                  |
+| [Rust] 🦀 | [ccsds_parsers], [minihashcat]                    | [spacepackets-rs], [RustScan], [ncspot]                                  |
 | Other 🧩  | [dotfiles] ([🏠], [❄️]), [sklearn_minisom] ([🐍]) | [Cephalon Navis] ([🎯]), [Skyblocker] ([☕]), [commitizen-docker] ([🐋]) |
 
 [minihashcat]: https://github.com/koloiyolo/minihashcat
