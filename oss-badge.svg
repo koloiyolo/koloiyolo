@@ -87,7 +87,7 @@
       font-family="Inter, system-ui, -apple-system, sans-serif"
       font-size="28"
       font-weight="bold"
-      letter-spacing="0em">9</text>
+      letter-spacing="0em">10</text>
   </g>
 
   <!-- Lines Changed Card -->
@@ -108,7 +108,7 @@
       font-family="Inter, system-ui, -apple-system, sans-serif"
       font-size="28"
       font-weight="bold"
-      letter-spacing="0em">801</text>
+      letter-spacing="0em">833</text>
   </g>
 
   <!-- ========================= -->
@@ -172,7 +172,7 @@
       fill="#81a1c1"
       font-family="Inter, system-ui, -apple-system, sans-serif"
       font-size="12"
-      letter-spacing="0em">⭐ 43 · 2 PRs Merged</text>
+      letter-spacing="0em">⭐ 43 · 3 PRs Merged</text>
   </g>
   
   
@@ -328,7 +328,7 @@
       fill="#81a1c1"
       font-family="Inter, system-ui, -apple-system, sans-serif"
       font-size="12"
-      letter-spacing="0em">⭐ 558 · 1 PRs Merged</text>
+      letter-spacing="0em">⭐ 560 · 1 PRs Merged</text>
   </g>
   
   
