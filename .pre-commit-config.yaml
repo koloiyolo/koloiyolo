@@ -5,3 +5,4 @@ repos:
         name: mdlint
         language: system
         entry: uvx mdlint check
+        types: [markdown]
