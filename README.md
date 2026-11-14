@@ -61,7 +61,7 @@ Software Engineer in Mission Control 🛰️
 
 ## Projects
 
-| Language  | Personal Projects                                 | OSS Contributions - Projects: 8 - PRs: 9                                 |
+| Language  | Personal Projects                                 | OSS Contributions - Projects: 8 - PRs: 10                                |
 | --------- | ------------------------------------------------- | ------------------------------------------------------------------------ |
 | [Rust] 🦀 | [ccsds_parsers], [minihashcat]                    | [spacepackets-rs], [RustScan], [ncspot]                                  |
 | Other 🧩  | [dotfiles] ([🏠], [❄️]), [sklearn_minisom] ([🐍]) | [Cephalon Navis] ([🎯]), [Skyblocker] ([☕]), [commitizen-docker] ([🐋]) |
